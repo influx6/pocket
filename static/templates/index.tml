@@ -1,0 +1,9 @@
+{{ define index }}
+  <!doctype html>
+  <html>
+    <head></head>
+    <body>
+    </body>
+    <script src="/static/js/app.js"></script>
+  </html>
+{{ end }}
