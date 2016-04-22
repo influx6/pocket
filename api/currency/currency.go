@@ -1,4 +1,4 @@
-package budgets
+package currency
 
 import (
 	"fmt"

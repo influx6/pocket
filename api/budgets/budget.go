@@ -8,6 +8,7 @@ import (
 	"github.com/influx6/gu/gutrees"
 	"github.com/influx6/gu/gutrees/attrs"
 	"github.com/influx6/gu/gutrees/elems"
+	"github.com/influx6/pocket/api/currency"
 )
 
 // Budget defines a collection of cost items writting against a given pocket
@@ -16,7 +17,7 @@ type Budget struct {
 	Title            string  `json:"title"`
 	Price            float64 `json:"price"`
 	items            []BudgetItem
-	currency         Currency
+	currency         currency.Currency
 	action           int64
 	activeBudgetItem int
 }

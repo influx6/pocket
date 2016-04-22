@@ -12,6 +12,7 @@ import (
 	"github.com/influx6/gu/gutrees/attrs"
 	"github.com/influx6/gu/gutrees/elems"
 	"github.com/influx6/gu/guviews"
+	"github.com/influx6/pocket/api/currency"
 )
 
 //==============================================================================
@@ -28,7 +29,7 @@ func init() {
 type BudgetOptions struct {
 	UUID     string
 	Server   client.Server
-	Currency Currency
+	Currency currency.Currency
 }
 
 // PocketBudget provides the central repository for creating a pocket instance.
