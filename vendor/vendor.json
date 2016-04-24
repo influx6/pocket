@@ -17,38 +17,38 @@
 		{
 			"origin": "github.com/influx6/faux/vendor/github.com/ardanlabs/kit/cfg",
 			"path": "github.com/ardanlabs/kit/cfg",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/faux/vendor/github.com/ardanlabs/kit/db/mongo",
 			"path": "github.com/ardanlabs/kit/db/mongo",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/faux/vendor/github.com/ardanlabs/kit/log",
 			"path": "github.com/ardanlabs/kit/log",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/faux/vendor/github.com/ardanlabs/kit/tests",
 			"path": "github.com/ardanlabs/kit/tests",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/faux/vendor/github.com/dimfeld/httppath",
 			"path": "github.com/dimfeld/httppath",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/faux/vendor/github.com/dimfeld/httptreemux",
 			"path": "github.com/dimfeld/httptreemux",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/gu/vendor/github.com/go-humble/detect",
@@ -57,7 +57,6 @@
 			"revisionTime": "2016-04-19T14:07:01+01:00"
 		},
 		{
-			"origin": "github.com/influx6/pocket/vendor/github.com/gopherjs/gopherjs/js",
 			"path": "github.com/gopherjs/gopherjs/js",
 			"revision": "6dfb1807c148386eb31001e1967bf850de273ae9",
 			"revisionTime": "2016-04-19T14:07:01+01:00"
@@ -79,8 +78,8 @@
 		},
 		{
 			"path": "github.com/influx6/faux/context",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/gu/vendor/github.com/influx6/faux/loop",
@@ -90,8 +89,8 @@
 		},
 		{
 			"path": "github.com/influx6/faux/maker",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/gu/vendor/github.com/influx6/faux/mque",
@@ -101,8 +100,8 @@
 		},
 		{
 			"path": "github.com/influx6/faux/panics",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/gu/vendor/github.com/influx6/faux/pattern",
@@ -111,26 +110,30 @@
 			"revisionTime": "2016-04-19T14:07:01+01:00"
 		},
 		{
-			"origin": "github.com/influx6/pocket/vendor/github.com/influx6/faux/reflection",
 			"path": "github.com/influx6/faux/reflection",
 			"revision": "6dfb1807c148386eb31001e1967bf850de273ae9",
 			"revisionTime": "2016-04-19T14:07:01+01:00"
 		},
 		{
 			"path": "github.com/influx6/faux/sumex",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
-			"origin": "github.com/influx6/pocket/vendor/github.com/influx6/faux/utils",
+			"origin": "github.com/influx6/coquery/vendor/github.com/influx6/faux/utils",
 			"path": "github.com/influx6/faux/utils",
-			"revision": "7c45b390fd790764aae3f6e046be43dc78119631",
-			"revisionTime": "2016-04-19T15:52:33+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"path": "github.com/influx6/faux/web",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "3f7e01f8ea75a1021c14bc9cb99d16bff84d4880",
+			"revisionTime": "2016-04-23T16:27:46+01:00"
+		},
+		{
+			"path": "github.com/influx6/faux/web/app",
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"path": "github.com/influx6/gu/gudispatch",
@@ -175,8 +178,8 @@
 		{
 			"origin": "github.com/influx6/faux/vendor/github.com/satori/go.uuid",
 			"path": "github.com/satori/go.uuid",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/gu/vendor/golang.org/x/net/html",
@@ -193,32 +196,32 @@
 		{
 			"origin": "github.com/influx6/faux/vendor/gopkg.in/mgo.v2",
 			"path": "gopkg.in/mgo.v2",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/faux/vendor/gopkg.in/mgo.v2/bson",
 			"path": "gopkg.in/mgo.v2/bson",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/faux/vendor/gopkg.in/mgo.v2/internal/sasl",
 			"path": "gopkg.in/mgo.v2/internal/sasl",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/faux/vendor/gopkg.in/mgo.v2/internal/scram",
 			"path": "gopkg.in/mgo.v2/internal/scram",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"origin": "github.com/influx6/faux/vendor/gopkg.in/yaml.v2",
 			"path": "gopkg.in/yaml.v2",
-			"revision": "6645b294ba84e032cd9eef9fea75218acb9fed8f",
-			"revisionTime": "2016-04-21T00:44:12+01:00"
+			"revision": "2d062b8fbd340272eec4c4d37411be04129dbd9e",
+			"revisionTime": "2016-04-24T10:32:12+01:00"
 		},
 		{
 			"path": "honnef.co/go/js/dom",

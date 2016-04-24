@@ -6,7 +6,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/influx6/faux/web"
+	"github.com/influx6/faux/context"
+	"github.com/influx6/faux/web/app"
 )
 
 //==============================================================================
@@ -28,15 +29,20 @@ func (l eventlog) Error(context interface{}, name string, err error, message str
 
 //==============================================================================
 
-var context = "pocket-app"
+var contexts = "pocket-app"
 
 //==============================================================================
 
 func main() {
 
-	app := web.New(events, true, nil, nil)
+	pocketapp := app.New(events, true, nil, nil)
 
-	go http.ListenAndServe(":3000", app)
+	app.PageRoute(pocketapp, "GET", "/", func(ctx context.Context, w *app.ResponseRequest, params app.Param) error {
+
+		return nil
+	})
+
+	go http.ListenAndServe(":3000", pocketapp)
 
 	// Listen for an interrupt signal from the OS.
 	sigChan := make(chan os.Signal, 1)
